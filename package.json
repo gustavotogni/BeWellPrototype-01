@@ -1,0 +1,34 @@
+{
+  "name": "limbicbackend",
+  "version": "1.0.0",
+  "description": "Benchmarking application for cloud processing of biometric data.",
+  "main": "server.js",
+  "scripts": {
+    "test": "\"Hello world\"",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavotogni/LimbicBackend.git"
+  },
+  "author": "Gustavo C. Togni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavotogni/LimbicBackend/issues"
+  },
+  "homepage": "https://github.com/gustavotogni/LimbicBackend#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-metrics": "^1.1.0",
+    "express-response-size": "0.0.3",
+    "fossil-delta": "^1.0.2",
+    "mongoose": "^5.5.0",
+    "node-7z": "^1.1.0",
+    "node-gzip": "^1.1.2",
+    "request": "^2.88.0",
+    "request-stats": "^3.0.0"
+  }
+}
