@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gustavotogni/LimbicBackend.git"
+    "url": "git+https://github.com/gustavotogni/BeWellPrototype-01"
   },
   "author": "Gustavo C. Togni",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gustavotogni/LimbicBackend/issues"
+    "url": "https://github.com/gustavotogni/BeWellPrototype-01/issues"
   },
-  "homepage": "https://github.com/gustavotogni/LimbicBackend#readme",
+  "homepage": "https://github.com/gustavotogni/BeWellPrototype-01#readme",
   "devDependencies": {
     "nodemon": "^1.18.11"
   },
